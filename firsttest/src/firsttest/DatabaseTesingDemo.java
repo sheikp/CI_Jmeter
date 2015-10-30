@@ -11,7 +11,7 @@ public class DatabaseTesingDemo
 {
 // Connection object
 	       static Connection con = null;
-	       
+	       //dddddd
 // Statement object
 	       private static Statement stmt;
 	       // Constant for Database URL
